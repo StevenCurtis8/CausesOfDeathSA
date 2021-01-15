@@ -4,7 +4,7 @@ Exploring the relationship between causes of death and total deaths in South Afr
 
 Data analysis and exploration that answers the questions:
 
-Which causes of death have a major relationship to South Africa's total numbers of deaths?
-Which cause of death has the highest percentage contribution to total deaths?
-Which causes of death have no relationship to total deaths?
+Which causes of death have a major relationship to South Africa's total numbers of deaths? <br>
+Which cause of death has the highest percentage contribution to total deaths? <br>
+Which causes of death have no relationship to total deaths? <br>
 Which causes of death should be targeted to achieve a lower total number of deaths per year?
